@@ -1,5 +1,3 @@
-# strings for finding backdoor shells, rootkits, botnets, and exploitable functions
-# grep -Rn "shell *(" /var/www
 passthru
 shell_exec
 system
